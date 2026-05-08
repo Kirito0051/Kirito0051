@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Anas 👋
 
-<!--
-**Kirito0051/Kirito0051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, responsive, and user-friendly web experiences.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- React.js
+- Nuxt.js
+- Tailwind CSS
+- HTML
+- CSS
+- Git & GitHub
+
+## Projects
+
+### P.L Motors
+Bike showroom website built using Nuxt.js and Tailwind CSS.
+
+Live Demo:
+https://plmotors.vercel.app
+
+### Product Inventory System
+Frontend inventory management project using JavaScript and FakeStore API.
+
+## Currently Learning
+
+- React.js
+- Next.js
+- UI/UX Design
+- Full Stack Development
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/
+
+GitHub:
+https://github.com/Kirito0051
